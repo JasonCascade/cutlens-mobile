@@ -2,4 +2,6 @@
 .streamlit/secrets.toml
 __pycache__/
 *.pyc
-
+.tools/
+.venv/
+.codex-smoke-test/
