@@ -1,0 +1,6 @@
+streamlit>=1.48
+openai>=1.68
+pandas>=2.2
+Pillow>=10.4
+requests>=2.32
+
